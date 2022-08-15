@@ -118,6 +118,15 @@ body{
 @media screen and (max-width: 500px) {
 
     .container {
-        min-width: 480px;
+        min-width: 358px;
 }
+
+.new-task-container {
+    display: block;
+}
+
+.new-task-button {
+    margin: 10px;
+}
+
 }
