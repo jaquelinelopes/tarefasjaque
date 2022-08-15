@@ -129,4 +129,8 @@ body{
     margin: 10px;
 }
 
+.new-task-container input{
+    padding: 12px 2px;
+    font-size: 13px;
+}
 }
